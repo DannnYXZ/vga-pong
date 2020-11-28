@@ -1,0 +1,129 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "vga_h_sync",
+					"strict" : false
+				},
+				{
+					"name" : "vga_v_sync",
+					"strict" : false
+				},
+				{
+					"name" : "vga_blue[7]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_blue[6]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_blue[5]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_blue[4]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_blue[3]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_blue[2]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_blue[1]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_blue[0]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_green[7]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_green[6]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_green[5]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_green[4]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_green[3]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_green[2]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_green[1]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_green[0]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_red[7]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_red[6]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_red[5]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_red[4]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_red[3]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_red[2]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_red[1]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_red[0]",
+					"strict" : false
+				},
+				{
+					"name" : "player_l_up",
+					"strict" : false
+				},
+				{
+					"name" : "player_l_down",
+					"strict" : false
+				},
+				{
+					"name" : "player_r_up",
+					"strict" : false
+				},
+				{
+					"name" : "player_r_down",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
